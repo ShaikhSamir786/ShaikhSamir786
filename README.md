@@ -182,14 +182,14 @@ Secure vault system with encryption for managing passwords and sensitive data.
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSamir786&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikhSamir786&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 
-</div> -->
+</div> 
 
 ---
 
