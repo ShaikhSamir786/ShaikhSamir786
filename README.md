@@ -23,7 +23,6 @@ const samir = {
     location: "Pune, Maharashtra, India 🇮🇳",
     primaryStack: ["JavaScript", "TypeScript", "React", "Node.js"],
     focus: ["Modern Web Architecture", "Real-time Systems", "Security"],
-    codingTime: "262+ hours in JavaScript, 59+ hours in TypeScript",
     currently: "Building production-ready, scalable web applications",
     motto: "Code with purpose, build with passion"
 };
