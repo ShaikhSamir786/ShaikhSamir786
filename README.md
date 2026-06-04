@@ -1,31 +1,50 @@
-<div align="center">
+# Samir Shaikh
 
-# 👨‍💻 Samir Shaikh
-
-### Full-Stack Engineer | JavaScript Specialist | Real-Time Systems Expert
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=262%2B+Hours+of+JavaScript+Mastery;Building+Scalable+Web+Applications;React+%7C+Vue+%7C+Node.js+Expert;Passionate+About+Clean+Architecture" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shaikhsamir786.github.io/NewPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-shaikh-760b932a8/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22amtics312@gmail.com)
-
-</div>
+Backend Developer · B.Tech IT · Building systems that scale
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-```typescript
-const samir = {
-    role: "Full-Stack JavaScript Developer",
-    education: "B.Tech in Information Technology (Final Year)",
-    location: "Pune, Maharashtra, India 🇮🇳",
-    primaryStack: ["JavaScript", "TypeScript", "React", "Node.js"],
-    focus: ["Modern Web Architecture", "Real-time Systems", "Security"],
-    currently: "Building production-ready, scalable web applications",
-    motto: "Code with purpose, build with passion"
-};
+Backend-focused developer with a lean toward API design, distributed systems, and developer tooling.  
+Currently interning at **Logicwind** · Final year @ Uka Tarsadia University · Vapi, Gujarat.
+
+---
+
+### Stack
+
+```
+Node.js · TypeScript · Express.js · NestJS
+GraphQL (Apollo Server) · REST APIs
+PostgreSQL · MongoDB · Redis · BullMQ
+Docker · GitHub Actions
+Prometheus · Grafana · OpenTelemetry
 ```
 
-" 
+---
+
+### Featured Projects
+
+**[Eventifyy](https://github.com/ShaikhSamir786/eventify)**  
+Full-stack event management platform — GraphQL API, JWT auth with SHA-256 OTP email verification, RBAC, rate limiting, and a React SPA with Tailwind + shadcn/ui.  
+`TypeScript` `Apollo Server 5` `PostgreSQL` `Sequelize` `React`
+
+---
+
+**[Sahara Tyre — WhatsApp Campaign Platform](https://github.com/ShaikhSamir786/ai-ticket-docs)**  
+Bulk personalized WhatsApp campaigns using Google Sheets as contact store. Cross-platform React Native app with vehicle category filtering and QR-code auth.  
+`Node.js` `Google Sheets API` `React Native` `Expo` `GitHub Actions`
+
+---
+
+**[AI Ticket Triage](https://github.com/ShaikhSamir786/ai-ticket-docs)** *(in development)*  
+Microservice platform with multi-agent AI (GPT-4 + Claude) for ticket classification, priority prediction, smart routing, and SLA tracking — with a full observability stack.  
+`NestJS` `BullMQ` `GraphQL` `OpenTelemetry` `Grafana`
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samir--shaikh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-shaikh-760b932a8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaikhsamir786.github.io-000?style=flat&logo=github&logoColor=white)](https://shaikhsamir786.github.io/portfolio_samir)
+[![Email](https://img.shields.io/badge/Email-22amtics312@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:22amtics312@gmail.com)
