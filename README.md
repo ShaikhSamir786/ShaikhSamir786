@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Samir%20Shaikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20LLM-Integrated%20Systems%20%7C%20Node.js&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Samir%20Shaikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20AI%20Systems%20|%20Node.js%20%7C%20LLMs" alt="Header" />
 </p>
 
 <p align="center">
@@ -108,16 +108,16 @@ invitations, React SPA frontend with Vite and Tailwind.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikhSamir786&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSamir786&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSamir786&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikhSamir786&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
