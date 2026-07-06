@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Samir%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20Microservices%20%7C%20DevOps&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Samir%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" alt="Profile Banner" />
 </p>
 
 <!-- Social Badges -->
@@ -21,13 +21,18 @@
   </a>
 </p>
 
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShaikhSamir786&style=flat-square&color=1f6feb" alt="Profile Views" />
+</div>
+
 ***
 
 ## 👋 About Me
 
-I'm **Samir Shaikh**, a **Backend-Focused Full Stack Engineer** with 9 months of production experience building scalable, high-performance systems. I specialize in **Node.js microservices**, **distributed systems**, and **observability-driven development**.
+I'm **Samir Shaikh**, a **Backend-Focused Full Stack Engineer** with 9 months of production experience building scalable, high-performance systems. I specialize in **Node.js microservices**, **distributed systems**, and **cloud infrastructure**.
 
-Currently completing my **B.Tech in Information Technology** at Uka Tarsadia University (CGPA: 7.99/10), I bridge academic foundations with real-world engineering — from optimizing APIs serving **10,000+ active users** to architecting **AI-powered ticket triage platforms** with Kafka, NestJS, and OpenTelemetry.
+Currently completing my **B.Tech in Information Technology** at Uka Tarsadia University (CGPA: 7.99/10), I bridge academic foundations with real-world engineering — from optimizing APIs serving **10,000+ active users** to architecting **multi-agent AI systems** with observability stacks.
 
 > **What drives me:** Clean architecture, systems thinking, and shipping code that scales.
 
@@ -80,7 +85,7 @@ Currently completing my **B.Tech in Information Technology** at Uka Tarsadia Uni
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
 
-   
+    
 
 ***
 
@@ -121,7 +126,7 @@ Currently completing my **B.Tech in Information Technology** at Uka Tarsadia Uni
 
 ***
 
-### [AI Customer Ticket Triage](https://github.com/ShaikhSamir786/ai-ticket-docs) — Microservice-Based Support Automation *(In Development)*
+### [AI Customer Ticket Triage](https://github.com/ShaikhSamir786/ai-customer-ticket-manager) — Microservice-Based Support Automation *(In Development)*
 `NodeJS` `Next.js` `React` `GraphQL` `PostgreSQL` `Redis` `BullMQ` `Docker` `Kafka` `OpenTelemetry` `Prometheus` `Grafana`
 
 > AI-powered customer support platform with real-time ticket classification and SLA monitoring.
@@ -133,20 +138,56 @@ Currently completing my **B.Tech in Information Technology** at Uka Tarsadia Uni
 
 ***
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSamir786&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSamir786&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikhSamir786&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+</div>
+
+---
+
+## 🔄 Recent Activity
+
+<div align="center">
+
+### Most Active Repository
+**[ai-customer-ticket-manager](https://github.com/ShaikhSamir786/ai-customer-ticket-manager)** 
+- Last Commit: **July 3, 2026** 
+- TypeScript | 6+ Microservices | Multi-Agent AI Orchestration
+- Architecture: API Gateway → Triage Engine → LLM Orchestrator → Kafka/BullMQ Queues
+
+### Other Active Projects
+- **[2FA-MERN](https://github.com/ShaikhSamir786/2FA-MERN)** - Production-ready 2FA system (July 29, 2025)
+- **[AiCodeReviewer](https://github.com/ShaikhSamir786/AiCodeReviewer)** - AI-powered code review platform (July 31, 2025)
+- **[Contact_Us_form](https://github.com/ShaikhSamir786/Contact_Us_form)** - EmailJS integration (Last updated: August 30, 2025)
+
+</div>
+
+---
+
+## 📈 Key Metrics
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Total Public Repositories** | 15+ |
+| **Most Used Language** | TypeScript |
+| **Favorite Tech Stack** | Node.js + React + PostgreSQL |
+| **Microservices Experience** | 6+ production systems |
+| **Years Coding** | 2+ years |
+| **Latest Project Focus** | AI-powered systems with observability |
+
+</div>
 
 ***
 
@@ -183,5 +224,4 @@ Uka Tarsadia University · *2022 – 2026* · **CGPA: 7.99/10**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
 </p>
-
 
