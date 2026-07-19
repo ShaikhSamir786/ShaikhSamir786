@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f9fafb&height=140&section=header&text=Samir%20Shaikh&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20%20•%20%20AI%20Systems%20%20•%20%20Node.js&descAlignY=68&descSize=15" alt="Samir Shaikh header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f9fafb&height=150&section=header&text=Samir%20Shaikh&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%20•%20%20AI%20Systems%20%20•%20%20Node.js&descAlignY=68&descSize=15" alt="Samir Shaikh header" />
 </p>
 
 <p align="center">
@@ -12,43 +12,43 @@
   <a href="mailto:22amtics312@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>BACKEND ENGINEER · AI-INTEGRATED SYSTEMS · MICROSERVICES · OBSERVABILITY</sub>
+  <sub>AI BACKEND ENGINEER · AI-INTEGRATED SYSTEMS · MICROSERVICES · OBSERVABILITY</sub>
 </p>
 
 <h1 align="center">I build backend systems that can reason, route, and scale.</h1>
 
 <p align="center">
-  I work on Node.js systems where APIs, queues, caching, and LLM workflows come together
+  Backend engineer focused on Node.js systems where APIs, queues, caching, and LLM workflows come together
   to process real business operations — from classification and prioritization to event-driven execution.
 </p>
 
----
-
-## About
-
-I’m a backend engineer with production experience building systems that sit between infrastructure and intelligence.  
-My focus is not chatbot interfaces, but backend pipelines that use LLMs to classify, prioritize, and route real work.
-
-At <strong>Logicwind</strong>, I improved API response times by roughly 30% across services serving 10,000+ active users through query optimization and Redis caching.  
-I’m currently building a multi-agent AI ticket triage platform using Node.js microservices, Kafka, BullMQ, Redis, and observability tooling around GPT-4 and Claude-powered workflows.
-
-<p>
-  <strong>Open to:</strong> Backend Engineer · AI Backend Engineer · Platform Engineering roles
-  <br />
-  <strong>Location:</strong> Ahmedabad / Surat / Remote, India
+<p align="center">
+  <strong>Currently building:</strong> a multi-agent AI ticket triage platform with Kafka, BullMQ, Redis, GPT-4, Claude, and end-to-end observability.
 </p>
 
 ---
 
-## Focus
+## What I Bring
 
-- Distributed backend systems with Node.js and TypeScript
-- Microservices, queues, retries, and dead-letter workflows
-- LLM integration for classification, routing, and decision support
-- API performance, caching, observability, and maintainable architecture
+I help teams build backend systems that are fast, reliable, and ready for AI-powered workflows.
+
+- Systems that scale: APIs, caching, and observability built to handle growth without breaking.
+- Production mindset: I design for reliability, debugging, and graceful failure from day one.
+- AI that actually works: LLMs used as backend components for classification, routing, and decision support — not just chat interfaces.
+- Clear communication: I write clean code, clear docs, and explain trade-offs in simple terms.
+- Ownership: I take problems end-to-end, from requirements and design to deployment and monitoring.
+
+---
+
+## Core Strengths
+
+`Node.js` · `TypeScript` · `Microservices` · `Kafka` · `BullMQ` · `Redis` · `GraphQL` · `PostgreSQL` · `Docker` · `OpenTelemetry` · `Prometheus` · `Grafana` · `LLM Workflows`
 
 ---
 
@@ -58,37 +58,31 @@ I’m currently building a multi-agent AI ticket triage platform using Node.js m
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,sql&theme=dark" alt="Languages" />
 
 <br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
 
 <br/><br/>
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize&theme=dark" alt="Backend and API technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend and API technologies" />
 
 <br/><br/>
 
-**Databases**
+**Databases & Caching**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" alt="Databases" />
-
-<br/><br/>
-
-**Cloud · DevOps · Deployment**
-
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" alt="Cloud DevOps and deployment tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark" alt="Databases and caching" />
 
 <br/><br/>
 
-**Developer Tools**
+**DevOps · Deployment**
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm&theme=dark" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=dark" alt="DevOps and deployment tools" />
 
 </div>
 
@@ -96,61 +90,67 @@ I’m currently building a multi-agent AI ticket triage platform using Node.js m
 
 <div align="center">
 
-| 🧩 **Software Engineering** | 🤖 **AI Engineering** | ☁️ **Deployment** |
+| 🧩 **Backend Engineering** | 🤖 **AI Systems** | ☁️ **Deployment** |
 |:---|:---|:---|
-| Full Stack Development | LLM Integration | Docker |
-| REST APIs | Prompt Engineering | GitHub Actions |
-| Authentication | RAG Pipelines | Vercel |
-| Database Design | AI Automation | Cloudflare |
-| System Design | API Integrations | Linux |
+| REST APIs | LLM Integration | Docker |
+| GraphQL APIs | Prompt Engineering | GitHub Actions |
+| Authentication | AI Automation | Vercel |
+| Database Design | API Integrations | Linux |
+| Microservices | Workflow Orchestration | GitHub |
 
 </div>
 
 ---
 
-## Selected Work
+## Selected Projects
 
 ### AI Customer Ticket Triage
 <sub>Node.js · TypeScript · GraphQL · Kafka · BullMQ · Redis · Docker · GPT-4 · Claude</sub>
 
-A multi-agent support automation system built around six microservices for ticket intake, AI classification, prioritization, retries, scheduling, and real-time visibility.  
-The architecture combines Kafka and BullMQ for resilient message flow, with OpenTelemetry, Prometheus, and Grafana for traceability and operational insight.
+A multi-agent support automation platform built around six microservices for ticket intake, AI classification, prioritization, retries, scheduling, and real-time visibility.  
+It combines Kafka and BullMQ for resilient message flow, with OpenTelemetry, Prometheus, and Grafana for end-to-end operational insight.
 
 [View repository](https://github.com/ShaikhSamir786/ai-customer-ticket-manager)
 
 ### Sahara Tyre
 <sub>Node.js · Express · React Native · Expo · GitHub Actions</sub>
 
-A WhatsApp promotional campaign platform built for a real business, with concurrent messaging, delay-aware delivery logic, session persistence, and a mobile operator interface.  
-The system also includes CI/CD automation and deployment workflows for reliable release management.
+A WhatsApp campaign platform built for a real business, featuring concurrent messaging, randomized delay handling, session persistence, and a mobile operator workflow.  
+It also includes CI/CD automation and deployment processes for reliable delivery.
 
 [View repository](https://github.com/ShaikhSamir786/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)
 
 ### Eventifyy
 <sub>Node.js · GraphQL · PostgreSQL · Sequelize · React</sub>
 
-An event management platform with role-based access control, OTP verification, dual-layer rate limiting, and a React frontend for participant and event workflows.  
-It focuses on API structure, security controls, and clean full-stack integration.
+An event management platform with role-based access control, OTP verification, dual-layer rate limiting, and structured full-stack workflows.  
+The project emphasizes secure API design, clean architecture, and strong backend integration.
 
 [View repository](https://github.com/ShaikhSamir786/eventify)
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/111111" alt="GitHub icon" width="16" height="16" /> GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikhSamir786&theme=github" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSamir786&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&hide_border=true" alt="GitHub Stats" height="165">
 </p>
 
 ---
 
+## Open To
 
-## <img src="https://cdn.simpleicons.org/linktree/111111" alt="Connect icon" width="16" height="16" /> Connect
+Backend Engineer · AI Backend Engineer · AI SDE · Platform Engineer · AI Full Stack Developer  
+Ahmedabad · Hyderabad · Surat · Remote
+
+---
+
+## Connect
+
 <p align="center">
   <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -160,5 +160,8 @@ It focuses on API structure, security controls, and clean full-stack integration
   </a>
   <a href="mailto:22amtics312@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
