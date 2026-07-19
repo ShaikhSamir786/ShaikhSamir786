@@ -1,145 +1,164 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Samir%20Shaikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20AI%20Systems%20|%20Node.js%20%7C%20LLMs" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f9fafb&height=140&section=header&text=Samir%20Shaikh&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20%20•%20%20AI%20Systems%20%20•%20%20Node.js&descAlignY=68&descSize=15" alt="Samir Shaikh header" />
 </p>
 
 <p align="center">
-  <a href="https://samir-portfolio-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/samir-shaikh-760b932a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/samir-shaikh-760b932a8" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:22amtics312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <b>Backend Engineer building AI-integrated systems.</b><br/>
-  Node.js/NestJS microservices wired into LLMs (GPT-4, Claude) for real-time classification,
-  routing, and decisioning — backed by Kafka, Redis, and full observability.
+  <sub>BACKEND ENGINEER · AI-INTEGRATED SYSTEMS · MICROSERVICES · OBSERVABILITY</sub>
+</p>
+
+<h1 align="center">I build backend systems that can reason, route, and scale.</h1>
+
+<p align="center">
+  I work on Node.js systems where APIs, queues, caching, and LLM workflows come together
+  to process real business operations — from classification and prioritization to event-driven execution.
 </p>
 
 ---
 
-<!-- ABOUT -->
 ## About
 
-I'm a backend engineer with 9 months of production experience, currently building systems
-that sit between infrastructure and intelligence — not chatbots, but backend pipelines that
-use LLMs to classify, prioritize, and route real work.
+I’m a backend engineer with production experience building systems that sit between infrastructure and intelligence.  
+My focus is not chatbot interfaces, but backend pipelines that use LLMs to classify, prioritize, and route real work.
 
-At **Logicwind**, I cut API response times ~30% across services handling 10,000+ active
-users through query optimization and Redis caching. Right now I'm architecting a multi-agent
-AI ticket-triage platform: 6 Node.js microservices coordinated through Kafka/BullMQ, with
-GPT-4 and Claude doing the classification work.
+At <strong>Logicwind</strong>, I improved API response times by roughly 30% across services serving 10,000+ active users through query optimization and Redis caching.  
+I’m currently building a multi-agent AI ticket triage platform using Node.js microservices, Kafka, BullMQ, Redis, and observability tooling around GPT-4 and Claude-powered workflows.
 
-Open to **Backend / AI Backend Engineer** roles — remote or Ahmedabad/Surat, India.
+<p>
+  <strong>Open to:</strong> Backend Engineer · AI Backend Engineer · Platform Engineering roles
+  <br />
+  <strong>Location:</strong> Ahmedabad / Surat / Remote, India
+</p>
 
 ---
 
-<!-- TECH STACK -->
-## Tech Stack
+## Focus
 
-**Languages & Runtimes**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+- Distributed backend systems with Node.js and TypeScript
+- Microservices, queues, retries, and dead-letter workflows
+- LLM integration for classification, routing, and decision support
+- API performance, caching, observability, and maintainable architecture
+
+---
+
+## Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sql&theme=dark" alt="Languages" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite&theme=dark" alt="Frontend technologies" />
+
+<br/><br/>
 
 **Backend & APIs**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-![Apollo](https://img.shields.io/badge/Apollo%20Server-311C87?logo=apollographql&logoColor=white&style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
 
-**AI / LLM Integration**
-![OpenAI](https://img.shields.io/badge/GPT--4%20API-412991?logo=openai&logoColor=white&style=flat-square)
-![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white&style=flat-square)
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize&theme=dark" alt="Backend and API technologies" />
 
-**Messaging & Event Streaming**
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF9900?style=flat-square)
+<br/><br/>
 
-**Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square)
+**Databases**
 
-**DevOps & Observability**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-F4681E?logo=grafana&logoColor=white&style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white&style=flat-square)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis&theme=dark" alt="Databases" />
 
----
+<br/><br/>
 
-<!-- FEATURED PROJECTS -->
-## Featured Projects
+**Cloud · DevOps · Deployment**
 
-### [AI Customer Ticket Triage](https://github.com/ShaikhSamir786/ai-customer-ticket-manager) — Multi-Agent LLM Support Automation
-`Node.js` `TypeScript` `GraphQL` `Kafka` `BullMQ` `Redis` `Docker` `OpenTelemetry` `GPT-4` `Claude`
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions,git,github,linux&theme=dark" alt="Cloud DevOps and deployment tools" />
 
-Architecting 6 microservices (API gateway, ticket server, LLM manager, AI processor,
-scheduler) that route support tickets through GPT-4 and Claude for classification and
-priority scoring — coordinated via Kafka/BullMQ with retry + dead-letter fallback, and a
-real-time WebSocket dashboard with AI confidence scoring. Full observability stack:
-OpenTelemetry tracing, Prometheus metrics, Grafana dashboards.
+<br/><br/>
 
-### [Sahara Tyre](https://github.com/ShaikhSamir786/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform) — WhatsApp Campaign Platform
-`Node.js` `Express` `React Native` `Expo` `WhatsApp Web API` `GitHub Actions`
+**Developer Tools**
 
-Full-stack marketing automation live for a real business. Concurrent batch WhatsApp
-messaging with rate-limit-aware randomized delays and session persistence, plus a React
-Native operator app with QR-code auth and category filtering. CI/CD via GitHub Actions → Render.
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm&theme=dark" alt="Developer tools" />
 
-### [Eventifyy](https://github.com/ShaikhSamir786/eventify) — Event Management Platform
-`Node.js` `GraphQL (Apollo)` `PostgreSQL` `Sequelize` `React`
-
-GraphQL event management API (Apollo Server 5 on Express 5) with RBAC, SHA-256 OTP
-verification, and dual-layer rate limiting (HTTP + GraphQL). Full CRUD with participant
-invitations, React SPA frontend with Vite and Tailwind.
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikhSamir786&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSamir786&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSamir786&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShaikhSamir786&style=flat-square&color=1f6feb" alt="Profile Views" />
+| 🧩 **Software Engineering** | 🤖 **AI Engineering** | ☁️ **Deployment** |
+|:---|:---|:---|
+| Full Stack Development | LLM Integration | Docker |
+| REST APIs | Prompt Engineering | GitHub Actions |
+| Authentication | RAG Pipelines | Vercel |
+| Database Design | AI Automation | Cloudflare |
+| System Design | API Integrations | Linux |
+
 </div>
 
 ---
 
-<!-- CONNECT -->
-## 📬 Let's Connect
+## Selected Work
+
+### AI Customer Ticket Triage
+<sub>Node.js · TypeScript · GraphQL · Kafka · BullMQ · Redis · Docker · GPT-4 · Claude</sub>
+
+A multi-agent support automation system built around six microservices for ticket intake, AI classification, prioritization, retries, scheduling, and real-time visibility.  
+The architecture combines Kafka and BullMQ for resilient message flow, with OpenTelemetry, Prometheus, and Grafana for traceability and operational insight.
+
+[View repository](https://github.com/ShaikhSamir786/ai-customer-ticket-manager)
+
+### Sahara Tyre
+<sub>Node.js · Express · React Native · Expo · GitHub Actions</sub>
+
+A WhatsApp promotional campaign platform built for a real business, with concurrent messaging, delay-aware delivery logic, session persistence, and a mobile operator interface.  
+The system also includes CI/CD automation and deployment workflows for reliable release management.
+
+[View repository](https://github.com/ShaikhSamir786/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)
+
+### Eventifyy
+<sub>Node.js · GraphQL · PostgreSQL · Sequelize · React</sub>
+
+An event management platform with role-based access control, OTP verification, dual-layer rate limiting, and a React frontend for participant and event workflows.  
+It focuses on API structure, security controls, and clean full-stack integration.
+
+[View repository](https://github.com/ShaikhSamir786/eventify)
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/111111" alt="GitHub icon" width="16" height="16" /> GitHub
 
 <p align="center">
-  <a href="https://samir-portfolio-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-samir--portfolio--dev.vercel.app-1f6feb?style=for-the-badge" alt="Portfolio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikhSamir786&theme=github" alt="GitHub Profile Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSamir786&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages" height="165" />
+</p>
+
+---
+
+
+## <img src="https://cdn.simpleicons.org/linktree/111111" alt="Connect icon" width="16" height="16" /> Connect
+<p align="center">
+  <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/samir-shaikh-760b932a8">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-samir--shaikh--760b932a8-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/samir-shaikh-760b932a8" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:22amtics312@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-22amtics312@gmail.com-EA4335?style=for-the-badge" alt="Email" />
-  </a>
-  <a href="tel:+918320927182">
-    <img src="https://img.shields.io/badge/📱%20Phone-%2B91%208320927182-34A853?style=for-the-badge" alt="Phone" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
