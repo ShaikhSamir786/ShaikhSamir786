@@ -58,7 +58,7 @@ I’m currently building a multi-agent AI ticket triage platform using Node.js m
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sql&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sql&theme=dark" alt="Languages" />
 
 <br/><br/>
 
