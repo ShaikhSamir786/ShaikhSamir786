@@ -46,11 +46,43 @@ I help teams build backend systems that are fast, reliable, and ready for AI-pow
 
 ---
 
+<div align="center">
+
 ## Core Strengths
 
-`Node.js` · `TypeScript` · `Microservices` · `Kafka` · `BullMQ` · `Redis` · `GraphQL` · `PostgreSQL` · `Docker` · `OpenTelemetry` · `Prometheus` · `Grafana` · `LLM Workflows`
+<table>
+  <tr>
+    <td align="center">Node.js</td>
+    <td align="center">Docker</td>
+  </tr>
+  <tr>
+    <td align="center">TypeScript</td>
+    <td align="center">OpenTelemetry</td>
+  </tr>
+  <tr>
+    <td align="center">Microservices</td>
+    <td align="center">Prometheus</td>
+  </tr>
+  <tr>
+    <td align="center">Kafka</td>
+    <td align="center">Grafana</td>
+  </tr>
+  <tr>
+    <td align="center">BullMQ</td>
+    <td align="center">LLM Workflows</td>
+  </tr>
+  <tr>
+    <td align="center">Redis</td>
+    <td align="center">PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center">GraphQL</td>
+    <td align="center">Rest Api</td>
+  </tr>
+</table>
 
----
+</div>
+
 
 ## Stack
 
