@@ -56,33 +56,29 @@ I help teams build backend systems that are fast, reliable, and ready for AI-pow
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,sql&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
-
-<br/><br/>
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend and API technologies" />
-
-<br/><br/>
-
-**Databases & Caching**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark" alt="Databases and caching" />
-
-<br/><br/>
-
-**DevOps · Deployment**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=dark" alt="DevOps and deployment tools" />
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,sql&theme=dark" alt="Languages" />
+    </td>
+    <td align="center"><strong>Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend & APIs</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend and API technologies" />
+    </td>
+    <td align="center"><strong>Databases & Caching</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark" alt="Databases and caching" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>DevOps · Deployment</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=dark" alt="DevOps and deployment tools" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
